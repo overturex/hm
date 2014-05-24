@@ -36,3 +36,16 @@
         }
     ?>
 </ul>
+
+<style>
+.nav>li>a{
+	background:linear-gradient(to bottom, rgba(30,87,153,1) 0%,rgba(125,185,232,0) 100%);
+	text-shadow:none !important;
+	color:white !important;
+	text-align:center;
+}
+
+.nav>li>a:hover{
+	opacity:0.6;
+}
+</style>	
