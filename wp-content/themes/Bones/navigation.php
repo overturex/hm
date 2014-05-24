@@ -8,7 +8,8 @@
         //echo "{" . count($menu_items) . "}";
         
         foreach ($menu_items as $menu_item ) {
-            echo '<li>';
+			$url = $menu_item -> url;
+            echo '<li><a href="' . $url .'">';
             echo $menu_item->title;
             
             $submenu = array();
@@ -30,7 +31,7 @@
 				echo $submenu_list;
 			}
 			
-			echo '</li>';
+			echo '</li></a>';
 
         }
     ?>
