@@ -1,0 +1,115 @@
+Version 2.2
+-- NEW FEATURE: Added one click demo install interface
+-- NEW FEATURE: Added pricing table plugin
+-- NEW FEATURE: Added new header style : dynamic hero
+-- NEW FEATURE: Added section animation on/off switch
+-- NEW FEATURE: Added custom logo upload for preloader
+-- NEW FEATURE: Added new section style : split section
+-- NEW FEATURE: Added 50 Pattern
+-- NEW FEATURE: Added Section Shadow
+-- NEW FEATURE: Added Demo #6
+
+-- BUG: fixed some minor CSS issues
+-- BUG: fixed an issue with portfolio image cropping
+
+-- INFO: update to Revolution Slider 4.1.4
+
+- changed files or folders
+-- admin/ folder
+-- inc/ut-custom-js.php
+-- inc/ut-custom-css.php
+-- inc/ut-image-resize.php
+-- inc/ut-extras.php
+-- js/ut-init.js
+-- header.php
+-- footer.php
+-- functions.php
+-- style.css
+
+- new files 
+-- inc/lib/ut-mobile-detect-class.php
+
+Version 2.1
+-- NEW FEATURE: Added new portfolio style ( before 1 now 2 )
+-- NEW FEATURE: Added new portfolio lightbox
+-- NEW FEATURE: Added new pattern overlay
+-- NEW FEATURE: Added new portfolio navigation styles ( before 1 now 3 )
+-- NEW FEATURE: Added new header transition effect ( mixed header style )
+
+-- CHANGE: You can now change the visible state of the navigation
+
+-- BUG: fixed an issue with theme customizer
+-- BUG: fixed an issue with custom hero html output
+-- BUG: fixed an issue with portfolio height overflow
+-- BUG: fixed an issue with member style 3 disalignment
+-- BUG: fixed an issue with icon chooser background
+-- BUG: fixed some minor CSS issues
+
+- changed files or folders
+-- admin/ folder
+-- inc/ut-custom-js.php
+-- inc/ut-custom-css.php
+-- header.php
+-- functions.php
+
+Version 2.0
+
+- NEW FEATURE: Added Revolution Slider
+- NEW FEATURE: Added over 600 Google Fonts
+- NEW FEATURE: New Theme Options Panel
+
+- CHANGE: Added "LinkedIn" to member profile
+- CHANGE: Added timer for testimonial and twitter rotator
+
+- BUG: fixed an issue with team member overlay flickering in chrome
+- BUG: fixed an issue with portfolio anchor pagination
+- BUG: fixed Mute / Unmute Button Alignement Chrome / Safari
+
+- changed files:
+-- admin/ folder
+-- functions.php
+-- templates/template-team.php
+-- inc/ut-custom-css.php
+-- style.css
+
+Version 1.1
+
+- NEW FEATURE: Added new hero header type : tablet slider
+- NEW FEATURE: Added new section header style ( before 5 now 6 )
+- NEW FEATURE: Added 2 new team member box styles ( before 1 now 3 )
+- NEW FEATURE: Added mute and unmute button to hero video section
+- NEW FEATURE: Added twitter rotator with avatar
+- NEW FEATURE: Added twitter rotator without avatar
+- NEW FEATURE: Added hero section text align
+- NEW FEATURE: Added pattern management to header, section and contact section
+
+- CHANGE: added color picker to progress bar
+- CHANGE: moved home link management from theme option to "Appearance" -> "Menu"
+- CHANGE: changed scrolling behavior when opening a portfolio detail
+- CHANGE: dynamic CSS and JS file are not also available inside the child theme
+- CHANGE: added hover effect to custom icons
+- CHANGE: decreased menu mobile button size
+
+- BUG: fixed an issue with contact section alignment on tablets
+- BUG: fixed an issue with Safari Scroll Crash
+- BUG: fixed an issue with navigation and section highlight
+- BUG: fixed an issue with scrolling to portfolio details
+- BUG: fixed an issue with video poster image on tablet portrait
+- BUG: fixed an issue with hero size on mobile devices
+
+- changed files:
+-- admin/ folder
+-- js/ut-init.js
+-- inc/ut-menu-walker.php
+-- inc/ut-extras.php
+-- inc/ut-custom-css.php
+-- inc/ut-custom-js.php
+-- templates/template-team.php
+-- header.php
+-- functions.php
+-- front-page.php
+-- footer.php
+-- style.css
+
+Version 1.0
+- initial release
